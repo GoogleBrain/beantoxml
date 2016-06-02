@@ -2,6 +2,12 @@ package com.sun.color;
 
 import com.sun.utils.JaxbUtil;
 
+/**
+ * 属性给子节点
+ * 
+ * @author Administrator
+ * 
+ */
 public class ColorsMain {
 	public static void main(String[] args) {
 		Red red = new Red();

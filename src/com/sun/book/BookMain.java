@@ -4,6 +4,12 @@ import java.util.Date;
 
 import com.sun.utils.JaxbUtil;
 
+/**
+ * 基本类型
+ * 
+ * @author Administrator
+ * 
+ */
 public class BookMain {
 	public static void main(String[] args) {
 		Book book = new Book();

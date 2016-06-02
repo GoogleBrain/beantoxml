@@ -5,6 +5,12 @@ import java.util.List;
 
 import com.sun.utils.JaxbUtil;
 
+/**
+ * 集合对象
+ * 
+ * @author Administrator
+ * 
+ */
 public class ProvinceMain {
 	public static void main(String[] args) {
 		Country country = new Country();
